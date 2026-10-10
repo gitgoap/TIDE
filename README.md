@@ -1,5 +1,8 @@
 # TIDE 🌊 — This Too Shall Pass
 
+<img width="1024" height="1024" alt="samay" src="https://github.com/user-attachments/assets/9fa06c7b-9d00-4cae-974b-e59b66bfa98e" />
+
+
 **Your AI Emotional Support Companion for the Workplace**
 
 > Work is stressful. Life is messy. Let's talk. This too shall pass.
